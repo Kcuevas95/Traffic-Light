@@ -11,3 +11,52 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+* {
+    background-color: pink;
+}
+
+
+.highlight {
+    box-shadow: 0 0 10px 2px
+}
+
+.red {
+    background: red;
+    color: red;
+}
+
+.yellow {
+    background: yellow;
+    color: yellow;
+}
+
+.green {
+    background: green;
+    color: green;
+}
+
+
+.circle {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin: auto;
+}
+
+.boxStyle {
+	height: 160px;
+	width: 90px;
+	background-color: black;
+	padding: 10px;
+	margin: auto;
+    border-radius: 10px;
+}
+
+.cable {
+    height: 160px;
+    width: 10px;
+    background-color: black;
+    margin: auto;
+}
+
